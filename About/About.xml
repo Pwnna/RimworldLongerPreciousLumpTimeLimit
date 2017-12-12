@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Longer Precious Lump Time Limit</name>
+  <author>Pwnna</author>
+  <url>https://github.com/Pwnna/RimworldLongerPreciousLumpTimeLimit</url>
+  <targetVersion>0.18.0</targetVersion>
+  <description>Change the precious mineral lump site's duration to 30 days.</description>
+</ModMetaData>

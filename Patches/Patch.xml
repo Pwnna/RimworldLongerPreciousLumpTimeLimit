@@ -1,0 +1,10 @@
+﻿<Patch>
+
+<Operation Class="PatchOperationReplace">
+	<xpath>/Defs/SiteCoreDef[defName = "PreciousLump"]/forceExitAndRemoveMapCountdownDurationDays</xpath>
+	<value>
+    <forceExitAndRemoveMapCountdownDurationDays>30</forceExitAndRemoveMapCountdownDurationDays>
+	</value>
+</Operation>
+
+</Patch>
