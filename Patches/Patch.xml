@@ -1,10 +1,19 @@
-﻿<Patch>
+<Patch>
+<Operation Class="PatchOperationReplace">
+  <xpath>/Defs/SiteCoreDef[defName = "PreciousLump"]/forceExitAndRemoveMapCountdownDurationDays</xpath>
+  <value>
+    <forceExitAndRemoveMapCountdownDurationDays>30</forceExitAndRemoveMapCountdownDurationDays>
+  </value>
+</Operation>
 
 <Operation Class="PatchOperationReplace">
-	<xpath>/Defs/SiteCoreDef[defName = "PreciousLump"]/forceExitAndRemoveMapCountdownDurationDays</xpath>
-	<value>
-    <forceExitAndRemoveMapCountdownDurationDays>30</forceExitAndRemoveMapCountdownDurationDays>
-	</value>
+  <xpath>/Defs/MapGeneratorDef[defName = "Encounter"]/genSteps</xpath>
+  <value>
+    <genSteps>
+      <li>RocksFromGrid</li>
+      <li>ScatterDeepResourceLumps</li>
+    </genSteps>
+  </value>
 </Operation>
 
 </Patch>
