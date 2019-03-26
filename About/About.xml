@@ -6,5 +6,5 @@
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <description>Change the precious mineral lump site's duration to 30 days.</description>
+  <description>Change the precious mineral lump site's duration to 30 days, the prisoner rescue site's duration to 15 days, and re-add mineable resources in encounters.</description>
 </ModMetaData>
