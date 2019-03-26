@@ -3,6 +3,8 @@
   <name>Longer Precious Lump Time Limit</name>
   <author>Pwnna</author>
   <url>https://github.com/Pwnna/RimworldLongerPreciousLumpTimeLimit</url>
-  <targetVersion>0.19.0</targetVersion>
-  <description>Change the precious mineral lump site's duration to 30 days.</description>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>Change the precious mineral lump site's duration to 30 days, the prisoner rescue site's duration to 15 days, and re-add mineable resources in encounters.</description>
 </ModMetaData>
